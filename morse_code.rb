@@ -53,4 +53,3 @@ def decode_message(message)
   result = new_message.map { |m| decode_word(m) }
   result.join(' ')
 end
-
