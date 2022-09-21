@@ -1,9 +1,12 @@
-# decode-morse-message
 # Decode-morse-code
-Decrypt morse code message using Ruby
 
-### Setup
+> Decrypt morse code message using Ruby.
 
+## Built With
+
+- Ruby
+
+## Getting Started
 **Cloning** ⬇️
 To clone the project:
 
@@ -12,7 +15,7 @@ $ git clone https://github.com/Estherstarr/Decode-morse-code.git
 $ cd Decode-morse-code
 ```
 
-## Author(s)
+## Authors
 
 👤 **Onomeh Onwuanibe**
 
@@ -20,6 +23,11 @@ $ cd Decode-morse-code
 - Twitter: [@twitterhandle](https://twitter.com/AnibeEsther)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/onwuanibeonome)
 
+👤 **Clifford Owusu**
+
+- GitHub: [@githubhandle](https://github.com/sireclifford)
+- Twitter: [@twitterhandle](https://twitter.com/sire_clifford)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sireclifford)
 
 ## 🤝 Contributing
 
@@ -30,13 +38,3 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
