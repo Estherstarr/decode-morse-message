@@ -29,6 +29,12 @@ $ cd Decode-morse-code
 - Twitter: [@twitterhandle](https://twitter.com/sire_clifford)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/sireclifford)
 
+👤 **Abdelhadi Hireche**
+
+- GitHub: [@aeh1707](https://github.com/aeh1707)
+- Twitter: [@aeh1707](https://twitter.com/aeh1707)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/abdelhadi-hireche)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
